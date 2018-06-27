@@ -87,6 +87,18 @@ a:visited {
   padding-bottom: 9px;
 }
 
+#pr, #te, #se {
+  position: fixed;
+}
+
 #pr {
-  padding-left: 70%;
+  right: 140px;
+}
+
+#te {
+  right: 88px;
+}
+
+#se {
+  right: 35px;
 }
