@@ -1,0 +1,85 @@
+.logo {
+  margin-top: 89px;
+}
+
+.menu {
+  -moz-appearance: none;
+  font-size: 13px;
+}
+
+body {
+  font-family: arial;
+}
+
+#box {
+  background-color: #fff;
+  height: 34px;
+  width: 459px;
+  line-height: 34px;
+}
+
+li {
+  list-style-type: none;
+  float: left;
+
+}
+
+a:link {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: rgba(0, 0, 0, 0.87);
+}
+#ab, #ma {
+  padding-right: 14px;
+}
+
+#ab {
+  padding-left: -5%;
+}
+
+#ma {
+  padding-left: 80%;
+}
+
+.menu {
+  margin-top: -50px;
+}
+
+#sbtn, #lbtn {
+  background-color: rgb(248, 248, 248);
+  border: none;
+  color: rgb(117, 117, 117);
+  height: 36px;
+  text-align: center;
+  font-weight: 700;
+  font-family: arial, sans-serif;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px 0px;
+}
+
+.footer {
+  background-color: rgb(242, 242, 242);
+  width: 100%;
+  position: absolute;
+  font-size: 13px;
+  position: fixed;
+  bottom: 0;
+}
+
+#ad, #pr, #te {
+  padding-right: 14px;
+}
+
+#ad {
+  padding-bottom: 9px;
+}
+
+#pr {
+  padding-left: 70%;
+}
