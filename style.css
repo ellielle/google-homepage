@@ -16,6 +16,8 @@ body {
   height: 34px;
   width: 459px;
   line-height: 34px;
+  margin-top: 20px;
+
 }
 
 li {
@@ -61,6 +63,11 @@ a:visited {
   font-weight: 700;
   font-family: arial, sans-serif;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px 0px;
+  margin-top: 20px;
+}
+
+#sbtn {
+  margin-right: 10px;
 }
 
 .footer {
